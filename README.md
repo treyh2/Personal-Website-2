@@ -1,1 +1,2 @@
 # Personal-Website-2
+This site will showcase the same information as my Person-Website-1, however with an updated project taskboard in github, updated repository, and a new contact tab with buttons and forms.
